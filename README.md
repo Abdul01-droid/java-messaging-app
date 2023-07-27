@@ -1,2 +1,2 @@
 # java-messaging-app
-The TCP/IP texting command line app
+The TCP/IP command line texting app
